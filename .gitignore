@@ -1,0 +1,11 @@
+# Personal music and local runtime files must never be uploaded.
+/music/*
+!/music/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Operating-system files
+.DS_Store
+Thumbs.db
